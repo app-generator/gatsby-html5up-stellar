@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-starter-stellar",
+  "name": "gatsby-html5up-stellar",
   "description": "Gatsby Starter - Stellar by HTML5 UP",
   "version": "1.0.0",
   "author": "Hunter Chang",
@@ -36,6 +36,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/app-generator/gatsby-html5up-stellar"
   }
 }
