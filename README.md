@@ -1,4 +1,4 @@
-# [GatsbyJS Stellar](https://gatsby-html5up-stellar.appseed.us)
+# [GatsbyJS Stellar](https://appseed.us/apps/gatsbyjs/gatsby-html5up-stellar)
 
 GatsbyJS Stellar is an open-source app built with GatsbyJS on top of HTML5Up Stellar design. 
 Project forked from [this](https://github.com/codebushi/gatsby-starter-stellar) starter.
@@ -6,6 +6,13 @@ Project forked from [this](https://github.com/codebushi/gatsby-starter-stellar) 
 <br />
 
 ![GatsbyJS Stellar - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-stellar-intro.gif?raw=true)
+
+<br />
+
+## App Links
+
+- [GatsbyJS Stellar](https://gatsby-html5up-stellar.appseed.us) - live demo
+- [Stellar](https://html5up.net/stellar) - the design provided by Html5UP 
 
 <br />
 
@@ -20,7 +27,7 @@ Project forked from [this](https://github.com/codebushi/gatsby-starter-stellar) 
 
 ## Support
 
-For Support please access the [Support](https://appseed.us/support) provided by **AppSeed** 
+Please access the official [Support](https://appseed.us/support) page provided by **AppSeed** 
 
 <br />
 
@@ -32,4 +39,4 @@ For Support please access the [Support](https://appseed.us/support) provided by 
 <br />
 
 ---
-[GatsbyJS Stellar](https://gatsby-html5up-stellar.appseed.us) provided by **AppSeed**
+[GatsbyJS Stellar](https://appseed.us/apps/gatsbyjs/gatsby-html5up-stellar) provided by **AppSeed**
