@@ -5,6 +5,10 @@ Project forked from [this](https://github.com/codebushi/gatsby-starter-stellar) 
 
 <br />
 
+![GatsbyJS Stellar - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-stellar-intro.gif?raw=true)
+
+<br />
+
 ## How to use it
 - Clone this repo `git clone https://github.com/app-generator/gatsby-html5up-stellar.git`
 - change directory to `gatsby-html5up-stellar`
