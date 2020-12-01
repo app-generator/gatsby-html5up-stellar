@@ -2,7 +2,7 @@
 
 GatsbyJS Stellar is an open-source app built with GatsbyJS on top of HTML5Up Stellar design. 
 
-> Originally coded by **[CodebBshi](https://github.com/codebushi)**.
+> Originally coded by **[Codebushi](https://github.com/codebushi)**.
 
 <br />
 
